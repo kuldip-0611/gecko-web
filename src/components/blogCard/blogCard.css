@@ -1,0 +1,32 @@
+.custom-card {
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: transparent;
+}
+
+.card-img {
+  height: 150px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.text-title {
+  color: #232323;
+  font-size: 20px;
+}
+
+.text-date {
+  color: #606060;
+  font-size: 14;
+  font-weight: 400;
+}
+
+.text-name {
+  color: #d0021b;
+  font-size: 14;
+  font-weight: 400;
+}
+
+.text-description {
+  color: #495057;
+}

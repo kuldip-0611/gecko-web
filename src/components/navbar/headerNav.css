@@ -1,0 +1,14 @@
+.services-text {
+  font-size: 20px;
+  font-weight: 400;
+  color: #232323;
+  white-space: nowrap;
+}
+.generral-nav-text {
+  color: #232323;
+}
+.contact-us-container {
+  background-color: #ff6400;
+  border-radius: 50px;
+  padding: 8px 24px 5px 24px;
+}

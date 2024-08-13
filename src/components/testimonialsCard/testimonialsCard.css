@@ -1,0 +1,41 @@
+.custom-card {
+  background-color: white;
+  border: none;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top-left {
+  position: absolute;
+  top: -13%;
+  left: 0;
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.card-img-bottom-right {
+  position: absolute;
+  bottom: -13%;
+  right: 0;
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.card-img-name {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+
+.text-title {
+  color: #333;
+}
+
+.text-description {
+  color: #495057;
+}

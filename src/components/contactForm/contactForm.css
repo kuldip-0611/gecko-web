@@ -1,0 +1,35 @@
+.custom-input-border {
+  border: none;
+  border-bottom: 1px solid #606060;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.input-border-bottom-only:focus {
+  box-shadow: none;
+  border-color: #000;
+}
+.form-label {
+  font-size: 15px;
+  color: #606060;
+  font-weight: 400;
+}
+.decision-btn {
+  background-color: #ff6400;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  display: block;
+}
+
+.decision-btn:hover {
+  background-color: #45a049;
+}
+
+.form-button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}

@@ -1,0 +1,71 @@
+.home-container {
+  background-image: url("./assets/home.png");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  position: relative;
+}
+
+.info-container {
+  padding-top: 108px;
+  max-width: 400px;
+  padding-left: 32px;
+}
+.save-text {
+  font-size: 47px;
+  font-weight: 700;
+}
+
+.description-text {
+  font-size: 18px;
+  font-weight: 400;
+  max-width: 450px;
+}
+
+.turnover-container {
+  background-color: #fff;
+  padding: 8px 24px 24px 24px;
+  position: absolute;
+  border-radius: 8px;
+  max-width: 550px;
+  bottom: 90px;
+  left: 64px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.turnover-question {
+  font-size: 28px;
+  font-weight: 600;
+  text-align: center;
+  padding-bottom: 16px !important;
+}
+.decision-btn {
+  background-color: #ff6400;
+  padding: 6px 18px;
+}
+.time-text {
+  font-size: 16px;
+  font-weight: 600;
+}
+.time-container {
+  position: absolute;
+  bottom: 0;
+  left: 32px;
+}
+.about-us-container {
+  background-image: url("./assets/aboutBg.png");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.services-text {
+  font-size: 46px;
+  font-weight: 700;
+}
+
+.testomonials-bg {
+  background-image: url("./assets/testomonialsBg.png");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
